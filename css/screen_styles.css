@@ -1,0 +1,328 @@
+main{
+	display: block;
+}
+body{
+	font-family: "Sans serif", Arial, Verdana;
+	width: 1024px;
+	border: solid 2px black;
+}
+
+/*Page 1*/
+
+#wrapper{
+	margin: 10px;
+	padding: 10px;
+	width: 1024px;
+	font-size: 12px;
+	color: #A3A3A3;
+	margin-left: 150px;
+}
+strong, h1, .standout{
+	color: #000000;
+}
+#right_wrapper{
+	border-left: solid 5px #000000;
+	border-bottom: solid 3px #000000;
+	width: 400px;
+	height: 870px;
+	float: right;
+	position: relative;
+	left: -225px;
+	margin-top: -20px;
+}
+#left_wrapper{
+	float: left;
+	width: 360px;
+}	
+.standout{
+	font-weight: bold;
+	font-size: 2.5em;
+	width: 65%;
+}
+#article1{
+	position: relative;
+	top: -30px;
+	margin-bottom: -20px;
+	height: 400px;
+}
+#matching_beats{
+	font-size: 2em;
+	background-color: #000000;
+	padding: 10px;
+	margin-top: -40px;
+	margin-bottom: 3px;
+}
+.page1_h1{
+	margin-bottom: -20px;
+	margin-top: -15px;
+	margin-left: -70px;
+	border: solid 1px #000000;
+	width: 65px;
+	text-align: center;
+	clear: both;
+	
+}
+.h1_span{
+	font-size: 1.5em;
+}
+.page1_h2{
+	margin-bottom: -10px;
+	margin-top: -10px;
+	padding-top: 5px;
+}
+.page2_h2{
+	color: #000000;
+	font-size: 2.5em;
+}
+.page1_h3{
+	font-size: 4em;
+	margin-top: -5px;
+	color: #000000;
+}
+.page1_h4{
+	color: #000000;
+	font-size: 2em;
+	width: 180px;
+	float: left;
+}
+ol{
+	list-style: none;
+	margin-left: -40px;
+	width: 200px;
+	position: absolute;
+	top: -30px;
+}
+#pl_tip1{
+	position: absolute;
+	top: 644px;
+	right: 10px;
+	width: 190px;
+}
+#pl_tip2{
+	position: absolute;
+	top: 759px;
+	right: 10px;
+	width: 190px;
+}
+#pl_tip3{
+	position: absolute;
+	left: 230px;
+	top: 644px;
+	width: 190px;
+}
+#pl_tip4{
+	position: absolute;
+	left: 230px;
+	top: 759px;
+	width: 190px;
+}
+.make_playlist{
+	margin-top: -40px;
+	width: 370px;
+}
+.strong_list{
+	font-size: 5em;
+	margin-top: -8px;
+	margin-bottom: 68px;
+	float: left;
+	color: #A3A3A3;
+}
+.ticket_list{
+	position: relative;
+}
+.tickets{
+	position: relative;
+	left: 210px;
+	top: -290px;
+	margin-bottom: -300px;
+}
+#big_show{
+	clear: both;
+	position: relative;
+}
+
+#ticket_step3{
+	position: relative;
+	left: 520px;
+	top: -160px;
+	width: 250px;
+}
+#ticket_step4{
+	position: relative;
+	left: 520px;
+	width: 250px;
+	top: -155px;
+	margin-bottom: -125px;
+}
+#next_page{
+	position: relative;
+	left: 750px;
+}
+
+/*Page 2*/
+
+#l_wrapper{
+	border-top: solid 3px #000000;
+	border-right: solid 5px #000000;
+	float: left;
+	width: 300px;
+	position: relative;
+	left: -125px;
+}
+#r_wrapper{
+	position: absolute;
+	left: 370px;
+	width: 660px;	
+}
+#amazon_picks{
+	font-size: 1.5em;
+	color: #919191;
+	margin-top: -20px;
+}
+.pop_blog{
+	width: 280px;
+}
+.blog_num{
+	background-color: black;
+	color: grey;
+	border: solid 1px black;
+	border-radius: 50%;
+	font-size: 2em;
+	float: left;
+	margin-right: 5px;
+	font-weight: bold;
+	width: 30px;
+	height: 30px;
+	text-align: center;
+}
+.blog{
+	position: relative;
+	left: -30px;
+	top: -15px;
+}
+.page2_h3{
+	font-size: 3em;
+	width: 350px;
+	position: relative;
+	top: -650px;
+	left: 200px;
+	color: #000000;
+}
+.page2_h1{
+	width: 150px;
+}
+.page2_h4{
+	margin-bottom: -3px;
+	color: #000000;
+}
+h5{
+	font-weight: bold;
+	color: #000000;
+	position: relative;
+	top: -450px;
+	left: 200px;
+	margin-top: -225px;
+	
+}
+h6{
+	font-size: 3em;
+	position: relative;
+	top: -520px;
+	left: 200px;
+}
+#myspace_article{
+	width: 620px;
+	position: relative;
+	left: 200px;
+	top: -680px;
+	margin-bottom: -500px;
+}
+#mysp_custom{
+	width: 250px;
+	margin-top: -10px;
+}
+.links{
+	position: relative;
+	top: -12px;
+}
+#mysp_text{
+	width: 250px;
+	margin-top: -22px;
+}
+#mysp_share{
+	width: 250px;
+	margin-top: -22px;
+}
+#share_frag{
+	position: relative;
+	top: -5px;
+}
+#mysp_share2{
+	width: 250px;
+	margin-top: -22px;
+	position: relative;
+	left: 300px;
+	top: -280px;
+}
+#mysp_visit{
+	width: 250px;
+	position: relative;
+	top: -302px;
+	left: 300px;
+}
+#mysp_friends{
+	width: 250px;
+	position: relative;
+	top: -300px;
+	left: 300px;
+	margin-bottom: -300px;
+}
+#post{
+	width: 500px;
+}
+#imitation{
+	position: relative;
+	top: -600px;
+	left: 200px;
+	font-size: 1.25em;
+	font-weight: bold;
+}
+#reblog_list{
+	position: relative;
+	margin-bottom: -500px;
+}
+.list_item_num{
+	background-color: black;
+	font-size: 1.5em;
+	height: 90px;
+	float: left;
+	text-align: center;
+	padding: 5px;
+	font-size: 2em;
+	font-weight: bold;
+}
+#reblog_list_item1{
+	position: absolute;
+	top: -570px;
+	left: 242px;
+	width: 200px;
+	margin-bottom: -400px;
+}
+#reblog_list_item2{
+	position: absolute;
+	top: -570px;
+	left: 440px;
+	width: 200px;
+	margin-bottom: -400px;
+}
+#reblog_list_item3{
+	position: absolute;
+	top: -570px;
+	left: 642px;
+	width: 200px;
+	margin-bottom: -400px;
+}
+#prev_page{
+	float: left;
+	clear: both;
+}
